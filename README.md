@@ -14,8 +14,8 @@ Awesome project for tesla's boombox sound clip
   * [Car Engine Sounds, Archive.org](https://archive.org/details/car-engines)
 
 ### Horn
-* tetris
+* [Tetris, Archive.org](https://archive.org/details/TetrisThemeMusic)
 
 ### Free sound clip
 * [Freesound.org](https://freesound.org/browse)
-* [funny sound, Sound bible](http://soundbible.com/tags-funny.html)
+* [Funny sound, Sound bible](http://soundbible.com/tags-funny.html)
