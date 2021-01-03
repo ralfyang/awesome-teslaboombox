@@ -18,3 +18,4 @@ Awesome project for tesla's boombox sound clip
 
 ### Free sound clip
 * [Freesound.org](https://freesound.org/browse)
+* [funny sound, Sound bible](http://soundbible.com/tags-funny.html)
